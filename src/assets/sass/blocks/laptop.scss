@@ -1,0 +1,16 @@
+.laptop{
+  position: absolute;
+  right: 10rem;
+  z-index: 2;
+  height: 300px;
+  width: 500px;
+
+
+  @media (max-width: 1700px) {
+    right: 2rem;
+  }
+  @media (max-width: 1200px) {
+    display: none;
+    opacity: 90%;
+  }
+}
