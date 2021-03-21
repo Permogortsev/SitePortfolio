@@ -1901,20 +1901,21 @@ body {
     display: flex;
     -ms-flex-align: center;
     align-items: center;
-}
-
-.social__text {
-    color: #121212;
-    font-size: .8rem;
-    font-weight: 600;
-    margin-right: 15px;
+    gap: 10px;
 }
 
 .social__link svg {
     width: 2rem;
     height: 2rem;
-    margin: 0 5px 0;
     display: block;
+    transition: -webkit-transform .1s linear;
+    transition: transform .1s linear;
+    transition: transform .1s linear, -webkit-transform .1s linear;
+}
+
+.social__link svg:hover {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
 }
 
 .modal-content {
