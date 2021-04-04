@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d6cd4b7-9803-4862-a678-23ca327c4466" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/assets/img/favicons/browserconfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/style.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/sass/blocks/social.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/sass/blocks/social.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/footer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +62,7 @@
       <workItem from="1615815773840" duration="1291000" />
       <workItem from="1616178807159" duration="254000" />
       <workItem from="1616349687590" duration="2514000" />
-      <workItem from="1616352247491" duration="316000" />
+      <workItem from="1616352247491" duration="888000" />
     </task>
     <servers />
   </component>
